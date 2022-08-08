@@ -1,0 +1,10 @@
+# Dagger2-With-Coroutine
+Library used
+- dagger
+- lifecycle
+- coroutine
+- picasso
+- retrofit
+- room
+Project structure
+- MVVM
